@@ -1,6 +1,7 @@
 /*
  * Copyright (C) 2012-2017 ParanoidAndroid Project
  * Copyright (C) 2018-2020 CesiumOS Project
+ * Copyright (C) 2018-2020 FreakyOS Project
  *
  * Licensed under the GNU GPLv2 license
  *
@@ -8,7 +9,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package org.cesium.WallBucket;
+package org.freaky.WallBucket;
 
 import android.app.Activity;
 import android.app.AlertDialog;
